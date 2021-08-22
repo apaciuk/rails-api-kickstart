@@ -6,6 +6,7 @@
 - Test Framework: RSpec
 - Databases: Postgres & Redis
 - Async Processor: Sidekiq
+- Use with any front end Vue/React/Angular/ and others.
 
 ## Other Gems
 
